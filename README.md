@@ -27,7 +27,7 @@
 | [Pattern Recognition and Machine Learning](ML/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) | Christopher M. Bishop | Theory | Classic PRML textbook |
 | [Building Machine Learning Powered Applications](ML/building-machine-learning-powered-applications-going-from-idea-to-product.pdf) | Emmanuel Ameisen | Applied | From idea to product development |
 | [Designing Machine Learning Systems](ML/Designing_Machine_Learning_Systems_An_Iterative_Process_for_Production-Ready_Applications_-_Chip_Huyen.pdf) | Chip Huyen | MLOps | Production-ready ML system design |
-| [Hands-On Machine Learning](ML/Hands-On_Machine_Learning_with_Scikit-Learn_Keras_and_Tensorflow_-_Aurelien_Geron.pdf) | Aurélien Géron | Practical | ML with Scikit-Learn, Keras & TensorFlow |
+| [Hands-On Machine Learning](ML/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20Keras%20and%20TensorFlow_%20Concepts%20Tools%20and%20Techniques%20to%20Build%20Intelligent%20Systems-OReilly%20Media%202022.pdf) | Aurélien Géron | Practical | ML with Scikit-Learn, Keras & TensorFlow |
 | [Machine Learning for Humans](ML/machine_learning_for_humans.pdf) | Vishal Maini, Samer Sabri | Beginner | Accessible ML explanations |
 | [Machine Learning: A Probabilistic Perspective](ML/ML%20Machine%20Learning-A%20Probabilistic%20Perspective.pdf) | Kevin P. Murphy | Theory | Probabilistic approaches to ML |
 | [ML Math](ML/ML%20Math.pdf) | Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong | Mathematics | Mathematical foundations for ML |
